@@ -1,0 +1,9 @@
+{
+    "server_ip": "127.0.0.1",
+    "server_port": 514,
+    "protocol": "udp",
+    "log_file": "logs.txt",
+    "facility": 1,
+    "severity": 6,
+    "app_name": "syslog_forwarder"
+}
