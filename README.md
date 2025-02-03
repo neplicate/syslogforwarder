@@ -11,7 +11,7 @@
 2. **Run the Forwarder**:
     
     ```bash
-    python3 syslog_forwarder.py
+    python3 syslogserver.py
     
     ```
     
